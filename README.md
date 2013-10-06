@@ -3,7 +3,7 @@ Highly motivated, self-starting full stack developer with more than 10 years exp
 
 ## Experience
 
-### 6PS Group, LLC
+### ![6PS Group, LLC Logo](/images/logo-6ps.png) 6PS Group, LLC
 
 **Co-Founder** _(May 2011 – Present; New York, NY/João Pessoa, PB - Brasil)_
 
@@ -85,4 +85,4 @@ IT hardware and desktop support certification
 ## Languages
 
 * English: Native proficiency
-* Brazilian Português: Limited working proficiency
+* Brazilian Português: Limited working proficiency/conversational
