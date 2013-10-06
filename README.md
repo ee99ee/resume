@@ -82,7 +82,7 @@ Part of the MCITP Enterprise Administrator path
 IT hardware and desktop support certification
 
 
-### Languages
+## Languages
 
 * English: Native proficiency
 * Portuguese: Limited working proficiency
