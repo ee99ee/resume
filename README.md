@@ -3,9 +3,8 @@ Highly motivated, self-starting full stack developer with more than 10 years exp
 
 ## Experience
 
-![6PS Group, LLC Logo](/images/logo-6ps.png) 
 ### 6PS Group, LLC
-
+![6PS Group, LLC Logo](/images/logo-6ps.png) 
 **Co-Founder** _(May 2011 – Present; New York, NY/João Pessoa, PB - Brasil)_
 
 Co-founder and COO of 6PS Group, LLC, a boutique web and mobile development agency based in NYC with operations in the USA and Brazil. Primary responsibilities include:
@@ -27,10 +26,8 @@ Co-founder and COO of 6PS Group, LLC, a boutique web and mobile development agen
 
 Key technologies: Python Django, PHP (CodeIgniter, Kohana, Symfony, Slim), PostgreSQL, MySQL, MongoDB, Memcache, Git, Varnish, Akamai/CDN, ActiveMQ, Web Services (REST and SOAP APIs), HTML5/CSS3, JavaScript/JQuery, Java/Scala (Play Framework), Backbone.js, AngularJS, Jenkins. Extremely familiar with agile and Scrum methodology
 
-
-![AOL/Huffington Post Logo](/images/logo-huffpost.png) 
 ### AOL/Huffington Post
-
+![AOL/Huffington Post Logo](/images/logo-huffpost.png) 
 **Sr. Software Developer** _(May 2012 – May 2013; New York, NY)_
 
 Core platform, API, and CMS developer responsible for systems architecture decisions and implementation of new features for editorial and public facing web platform. Tech lead for international launches.
