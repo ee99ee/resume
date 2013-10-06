@@ -10,19 +10,19 @@ Highly motivated, self-starting full stack developer with more than 10 years exp
 Co-founder and COO of 6PS Group, LLC, a boutique web and mobile development agency based in NYC with operations in the USA and Brazil. Primary responsibilities include:
 
 * Techincal
-** Tech team lead and Scrum Master
-** Work with product managers to build and prioritize production backlog
-** Work with art director to ensure UX vision becomes final product
-** Consult with clients on technical problems and give implementation guidance
-** Architect mobile and web APIs, line-of-business applications, and scalable web platforms
+    * Tech team lead and Scrum Master
+    * Work with product managers to build and prioritize production backlog
+    * Work with art director to ensure UX vision becomes final product
+    * Consult with clients on technical problems and give implementation guidance
+    * Architect mobile and web APIs, line-of-business applications, and scalable web platforms
 * Business
-** Oversee accounting and bookkeeping for US and Brazilian entities
-** Lead financial reporting, planning, and projecting
-** Directly responsible for cash flow forecasting, revenue recognition, closing, and reconciliations
-** Ensure compliance financial institutions and US municipal, state, and federal taxing authorities
-** Work with Brazilian staff accountant and external auditor for tax compliance
-** Review contracts for legal compliance
-** New hire recruitment, processing, and training
+    * Oversee accounting and bookkeeping for US and Brazilian entities
+    * Lead financial reporting, planning, and projecting
+    * Directly responsible for cash flow forecasting, revenue recognition, closing, and reconciliations
+    * Ensure compliance financial institutions and US municipal, state, and federal taxing authorities
+    * Work with Brazilian staff accountant and external auditor for tax compliance
+    * Review contracts for legal compliance
+    * New hire recruitment, processing, and training
 
 Key technologies: Python Django, PHP (CodeIgniter, Kohana, Symfony, Slim), PostgreSQL, MySQL, MongoDB, Memcache, Git, Varnish, Akamai/CDN, ActiveMQ, Web Services (REST and SOAP APIs), HTML5/CSS3, JavaScript/JQuery, Java/Scala (Play Framework), Backbone.js, AngularJS, Jenkins. Extremely familiar with agile and Scrum methodology
 
