@@ -70,11 +70,14 @@ Key Technologies: Microsoft Active Directory, Exchange Server, SQL Server, Termi
 ## Certifications
 
 **Cisco Certified Network Associate (CCNA)** _(2008)_
+
 Cisco network equipment certification
 
 **Microsoft Technology Specialist: Windows Vista (70-620)** _(2008)_
+
 Part of the MCITP Enterprise Administrator path
 
 **CompTIA A+** _(2007)_
+
 IT hardware and desktop support certification
 
