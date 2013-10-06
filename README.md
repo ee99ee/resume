@@ -85,4 +85,4 @@ IT hardware and desktop support certification
 ## Languages
 
 * English: Native proficiency
-* Portuguese: Limited working proficiency
+* Brazilian Português: Limited working proficiency
