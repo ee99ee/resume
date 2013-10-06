@@ -68,6 +68,7 @@ Key Technologies: Microsoft Active Directory, Exchange Server, SQL Server, Termi
 
 
 ### Middle Tennessee State University
+![MTSU Logo](/images/logo-mtsu.png) 
 
 **Bachelor of Business Administration - Accounting** _(2009)_
 
