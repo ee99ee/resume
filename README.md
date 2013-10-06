@@ -5,7 +5,7 @@ Highly motivated, self-starting full stack developer with more than 10 years exp
 
 ### 6PS Group, LLC
 
-**Co-Founder** _(May 2011 – Present; New York, NY)_
+**Co-Founder** _(May 2011 – Present; New York, NY/João Pessoa, PB - Brasil)_
 
 Co-founder and COO of 6PS Group, LLC, a boutique web and mobile development agency based in NYC with operations in the USA and Brazil. Primary responsibilities include:
 
@@ -34,9 +34,9 @@ Core platform, API, and CMS developer responsible for systems architecture decis
 
 Key Technologies: PHP, Perl, MySQL, MongoDB, Redis, Memcache, Git, Varnish, Akamai/CDN, Sphinx, ActiveMQ, Web Services, HTML5/CSS3, JavaScript/JQuery, Java/Scala, Backbone.js, AngularJS
 
-*** 6PS Corporation
+### 6PS Corporation
 
-**Co-Founder** _(Jan 2005 – April 2012; Nashville, TN)_
+**Co-Founder** _(Jan 2005 – April 2012; Nashville, TN/João Pessoa, PB - Brasil)_
 
 Founded and managed a web hosting and web services company. Oversaw all aspects of operations: finance, engineering, and customer service. 
 
