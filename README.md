@@ -27,6 +27,7 @@ Co-founder and COO of 6PS Group, LLC, a boutique web and mobile development agen
 
 Key technologies: Python Django, PHP (CodeIgniter, Kohana, Symfony, Slim), PostgreSQL, MySQL, MongoDB, Memcache, Git, Varnish, Akamai/CDN, ActiveMQ, Web Services (REST and SOAP APIs), HTML5/CSS3, JavaScript/JQuery, Java/Scala (Play Framework), Backbone.js, AngularJS, Jenkins. Extremely familiar with agile and Scrum methodology
 
+
 ![AOL/Huffington Post Logo](/images/logo-huffpost.png) 
 ### AOL/Huffington Post
 
