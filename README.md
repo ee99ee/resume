@@ -37,6 +37,7 @@ Core platform, API, and CMS developer responsible for systems architecture decis
 Key Technologies: PHP, Perl, MySQL, MongoDB, Redis, Memcache, Git, Varnish, Akamai/CDN, Sphinx, ActiveMQ, Web Services, HTML5/CSS3, JavaScript/JQuery, Java/Scala, Backbone.js, AngularJS
 
 ### 6PS Corporation
+![6PS Corporation Logo](/images/logo-6pscorp.png) 
 
 **Co-Founder** _(Jan 2005 – April 2012; Nashville, TN/João Pessoa, PB - Brasil)_
 
@@ -52,6 +53,7 @@ Key Technologies: Linux, Apache, Memcache, PHP, Ruby, Python, MySQL, cPanel, Win
 
 
 ### Intellithought Inc
+![Intellithought Logo](/images/logo-intellithought.png) 
 
 **Senior Systems Engineer** _(August 2002 – January 2005; Kingsport, TN)_
 
